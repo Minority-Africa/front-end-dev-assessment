@@ -2,21 +2,21 @@
 ![height:600px](https://team.africacodefoundry.org/wp-content/uploads/2022/04/cover-pic.jpeg)
 
 ## Problem Statement
-For the past cohorts, many candidates have been struggling with some tools that we use at ACA,
-like Git & Github. With the latter being at the heart of our workflow, It becomes hard to ship code in a timely manner.
+Git and Github are very important in the development workflow, Many projects are usually shipped lately due to limited understanding of the technologies
+. With the latter being at the heart of our workflow, It is crucial that this becomes your 6th sense as a Developer at Minority Africa.
 
 ## Problem
 Delays in shipping code due to insufficient knowledge on Git & Github
 
 ## Solution
-Git & Github a fundamental skills to your progress here at ACA. With you possessing this knowledge, together as a team, we will be able 
-to achieve our vision of "shipping code". 
+Git & Github a fundamental skills to your progress here at Minority Africa. With you possessing this knowledge, together as a team, we will be able 
+to ship code. 
 
 ## Instructions
 
 **!!Important- Hint Keep a log of all your git commands during project development**
 
-**First fork the repo [https://github.com/africacodeacademy/aca-erp2022-2-Quiz](https://github.com/africacodeacademy/aca-erp2022-2-Quiz)**
+**First fork the repo [https://github.com/Minority-Africa/front-end-dev-assessment](https://github.com/Minority-Africa/front-end-dev-assessment)**
 
 You are to individually build a quiz app  with:
 - React
@@ -52,13 +52,12 @@ At the end of the quiz, provide a summary of each question. i.e what the command
 - Note that the CircleCi config is provided in this project repo
 
 ### Submission
-- Submit the link to one of the leads, share the github repo URL with instructions on how 
+- Submit the link to one of the the Executive Engineer, mbedzi.olebogeng@minorityafrica.org, share the github repo URL with instructions on how 
 to run the app.
 - NB: Your README should contain the link to your deployed app on heroku
 
 !!Good Luck, the more the questions the more the points
 
-***Your Quiz might just be used as a benchmark for the coming cohorts***
 
 
 ### Useful Resources

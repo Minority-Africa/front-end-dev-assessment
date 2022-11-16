@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './aca.png';
+import logo from './minority.png';
 import './App.css';
 
 function App() {
@@ -12,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://africacode.org"
+          href="https://minorityafrica.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          I Love ACA
+          I Love Minority Africa
         </a>
       </header>
     </div>
