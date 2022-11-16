@@ -52,8 +52,7 @@ At the end of the quiz, provide a summary of each question. i.e what the command
 - Note that the CircleCi config is provided in this project repo
 
 ### Submission
-- Submit the link to one of the the Executive Engineer, mbedzi.olebogeng@minorityafrica.org, share the github repo URL with instructions on how 
-to run the app.
+- Submit the the Github and Heroku app links to the Executive Engineer, mbedzi.olebogeng@minorityafrica.org, share the github repo URL with instructions on how to run the app.
 - NB: Your README should contain the link to your deployed app on heroku
 
 !!Good Luck, the more the questions the more the points
